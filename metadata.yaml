@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '31731'
     url: http://www.gutenberg.org/2009/agents/31731
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27743#Through-Finland-in-Carts
 gutenberg_issued: '2009-01-08'
 gutenberg_type: Text
 identifiers:
