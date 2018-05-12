@@ -1,0 +1,32 @@
+_repo: Through-Finland-in-Carts_27743
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27743-h/images/covers.jpg
+creator:
+  author:
+    agent_name: Alec-Tweedie, Mrs. (Ethel)
+    aliases:
+    - Alec-Tweedie, Mrs
+    - Tweedie, Mrs Alec
+    - Tweedie, Mrs Alex
+    - Tweedie, Ethel Brilliana Harley
+    - Harley, Ethel B
+    - Tweedie, Ethel Brilliana
+    deathdate: 1940
+    gutenberg_agent_id: '31731'
+    url: http://www.gutenberg.org/2009/agents/31731
+description: ''
+gutenberg_issued: '2009-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finland -- Description and travel'
+- !lcc 'DK'
+title: Through Finland in Carts
+url: http://www.gutenberg.org/ebooks/27743
